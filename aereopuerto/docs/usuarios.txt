@@ -1,0 +1,9 @@
+alumnos  seat0        2026-08-14 17:07 (login screen)
+alumnos  tty2         2026-08-14 17:07 (tty2)
+alumnos  pts/11       2026-08-14 18:04
+total 16
+drwxrwxr-x 2 alumnos alumnos 4096 Aug 14 19:39 .
+drwxrwxr-x 6 alumnos alumnos 4096 Aug 14 19:32 ..
+-rw-rw-r-- 1 alumnos alumnos    0 Aug 14 19:37 aereopuerto_comandos.txt
+-rw-rw-r-- 1 alumnos alumnos   32 Aug 14 19:38 evidencia.txt
+-rw-rw-r-- 1 alumnos alumnos  139 Aug 14 19:39 usuarios.txt
